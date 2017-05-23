@@ -1,0 +1,15 @@
+{
+  "name": "soa-demo-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Jason Waag",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^7.4.0"
+  }
+}
